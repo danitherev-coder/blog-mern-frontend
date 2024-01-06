@@ -1,0 +1,14 @@
+/* .code-highlight {
+  background-color: black;
+  padding: 1rem;
+  border-radius: 4px;
+} */
+
+.single {
+  font-size: 14pt;
+}
+
+pre {
+  background-color: #fdf6e3;
+  padding-left: 15px;
+}
